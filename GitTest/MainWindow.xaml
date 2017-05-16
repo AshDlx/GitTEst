@@ -7,8 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Label Content="Test GIt" HorizontalAlignment="Left" Height="40" Margin="50,37,0,0" VerticalAlignment="Top" Width="156"/>
+        <Label Content="Test Git" HorizontalAlignment="Left" Height="40" Margin="50,37,0,0" VerticalAlignment="Top" Width="156"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="25" Margin="50,94,0,0" VerticalAlignment="Top" Width="134"/>
+        <ListBox HorizontalAlignment="Left" Height="159" Margin="33,141,0,0" VerticalAlignment="Top" Width="164"/>
 
     </Grid>
 </Window>
